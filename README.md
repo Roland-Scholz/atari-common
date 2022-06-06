@@ -1,2 +1,6 @@
 # atari-common
-common files like include etc. for the Atari XL/XE projects
+common files like includes etc. for 
+
+- Atari XL/XE projects
+- atari-my65816
+- fpga-my65818
